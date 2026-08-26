@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Do not upload real datasets
+datasets/real/
+
+# Do not upload docs
+docs/
+
+# Generated folder structure
+folder_structure.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
